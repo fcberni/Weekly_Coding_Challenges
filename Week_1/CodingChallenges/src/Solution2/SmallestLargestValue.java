@@ -42,7 +42,7 @@ public class SmallestLargestValue {
 		
 		System.out.print("\nThe First Array's Smallest element is " + slv.Min(arr1) );
 		System.out.print("\nThe First Array's Largest element is " + slv.Max(arr1) );
-		System.out.print("\n-------------------------------------------------------------");
+		System.out.print("\n--------h-----------------------------------------------------");
 		System.out.print("\nThe Second Array's Smallest element is " + slv.Min(arr2) );
 		System.out.print("\nThe Second Array's Largest element is " + slv.Max(arr2) );
 		
